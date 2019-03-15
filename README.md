@@ -1,2 +1,0 @@
-# VamosBoca
-Created with CodeSandbox
